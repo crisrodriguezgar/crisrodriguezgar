@@ -30,5 +30,5 @@ Mis hobbies son:
 ## Contacto 📫
 [![linknowi](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([www.linkedin.com/in/cristinarodriguezgar])
 [![gitnowi](https://img.shields.io/badge/Github-black?logo=github&logoColor=white)]([https://github.com/crisrodriguezgar])
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fcristirogar)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/https%3A%2F%2Ftwitter.com%2Fcristirogar)
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
