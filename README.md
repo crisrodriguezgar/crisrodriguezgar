@@ -1,4 +1,4 @@
-<img src="./images/banner.png" alt="gif" width="900" />
+<img src="./images/banner1.png" alt="gif" width="900" />
 
 # 👋 ¡Hola soy Cristina!
 
