@@ -32,4 +32,4 @@ Mis hobbies son:
 ## Contacto 📫
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
 
-<img src="http://pjorge.com/wp-content/uploads/2016/04/tumblr_o2dmi5JmKl1uluhv2o1_500.gif" alt="gif" width="300" />
+<img src="./images/banner.png" alt="gif" width="300" />
