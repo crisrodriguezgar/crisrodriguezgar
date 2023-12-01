@@ -1,3 +1,5 @@
+<img src="./images/banner.png" alt="gif" width="900" />
+
 # 👋 ¡Hola soy Cristina!
 
 Adalaber de la Promo Úrsula 
@@ -6,12 +8,6 @@ Ahora mismo estoy:
 - En búsqueda activa de mi oportunidad en el mundo TECH 🔍
 - Reforzando mis conocimientos en Java Script, React.js, Node.js y MongoDB.🌱
 - Dispuesta a aprender más tecnologías 📚
-
-Mis hobbies son:
-- Ver series y películas
-- Leer
-- Visitar museos, hacer actividades culturales y gastronómicas.
-- Programar más y más
 
 ## Tecnologías 
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/865b30a9-d8c7-4f30-b351-4ebdc24b6eab" alt="icon html" width="30" />
@@ -31,5 +27,3 @@ Mis hobbies son:
 
 ## Contacto 📫
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
-
-<img src="./images/banner.png" alt="gif" width="300" />
