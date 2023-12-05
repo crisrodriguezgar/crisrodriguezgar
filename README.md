@@ -1,15 +1,16 @@
 <img src="./images/banner1.png" alt="gif" width="900" />
 
-# 👋 ¡Hola soy Cristina!
+# 👋 ¡Hi, I'm Cristina!
 
-Adalaber de la Promo Úrsula 
+Adalaber from Promo Úrsula
 
-Ahora mismo estoy:
-- En búsqueda activa de mi oportunidad en el mundo TECH 🔍
-- Reforzando mis conocimientos en Java Script, React.js, Node.js y MongoDB.🌱
-- Dispuesta a aprender más tecnologías 📚
+Right now I'm:
 
-## Tecnologías 
+- In active search of my opportunity in the TECH world 🔍
+- Strengthening my knowledge in Java Script, React.js, Node.js, and MongoDB.🌱
+- Eager to learn more technologies 📚
+
+## Technologies
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/865b30a9-d8c7-4f30-b351-4ebdc24b6eab" alt="icon html" width="30" />
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/d09cc6ed-0e75-4e77-af76-0c77d68d9c30" alt="icon css" width="30" />
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/e6716957-f373-483c-8cfd-078a28b7e992" alt="icon js" width="35" />
@@ -25,5 +26,5 @@ Ahora mismo estoy:
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/29f8c43d-6dfa-4ef3-9290-78dbb22cb963" alt="icon zeplin" width="35" />
 <img src="https://github.com/crisrodriguezgar/crisrodriguezgar/assets/139646540/152ccaa4-85f1-46eb-98fa-39c5282fbecc" alt="icon slack" width="30" />
 
-## Contacto 📫
+## Contact 📫
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
