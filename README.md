@@ -2,7 +2,9 @@
 
 # 👋 ¡Hi, I'm Cristina!
 
-Adalaber from Promo Úrsula
+## Welcome to my Git 
+
+I'm Adalaber from Promo Úrsula
 
 Right now I'm:
 
