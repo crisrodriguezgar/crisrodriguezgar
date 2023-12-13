@@ -5,12 +5,12 @@
 
 ## Welcome to my Git 
 
-I'm Adalaber from Promo Úrsula
+I am an art historian converted into a web developer, Adalaber from Promo Úrsula
 
 Right now I'm:
 
 - In active search of my opportunity in the TECH world 🔍
-- Strengthening my knowledge in Java Script, React.js, Node.js, and MongoDB.🌱
+- Strengthening my knowledge in **Java Script**, **React.js**, **Node.js**, and **MongoDB**.🌱
 - Eager to learn more technologies 📚
 
 ## Technologies
