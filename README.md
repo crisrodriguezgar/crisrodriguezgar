@@ -1,6 +1,7 @@
 <img src="./images/banner1.png" alt="gif" width="900" />
 
-# 👋 ¡Hi, I'm Cristina!
+<h1 align="center">Hi everyone💜! I'm Cristina</h1>
+<h3 align="center">A junior front-end developer</h3>
 
 ## Welcome to my Git 
 
