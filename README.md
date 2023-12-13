@@ -20,3 +20,4 @@ Right now I'm:
 
 ## Contact 📫
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/cristinarodriguezgar)
