@@ -17,6 +17,7 @@ Right now I'm:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,mysql,nodejs,mongodb,git,postman,gulp,figma)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
 
 ## Contact 📫
 [![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
