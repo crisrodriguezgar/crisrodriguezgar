@@ -1,4 +1,4 @@
-<img src="./images/banner1.png" alt="gif" width="900" />
+<img src="./images/banner2.png" alt="gif" width="900" />
 
 <h1 align="center">Hi everyone💜! I'm Cristina</h1>
 <h3 align="center">A junior front-end developer</h3>
