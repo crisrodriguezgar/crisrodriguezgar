@@ -13,6 +13,8 @@ Right now I'm:
 - Strengthening my knowledge in **Java Script**, **React.js**, **Node.js**, and **MongoDB**.🌱
 - Eager to learn more technologies 📚
 
+<div align="center">
+
 ## Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,mysql,nodejs,mongodb,git,postman,gulp,figma)](https://skillicons.dev)
@@ -24,3 +26,4 @@ Right now I'm:
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cristirogar) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cristinarodriguezgar/) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodriguezgar.cris@gmail.com)
+</div>
