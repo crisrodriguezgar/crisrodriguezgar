@@ -20,5 +20,7 @@ Right now I'm:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
 
 ## Contact 📫
-[![gmailnowi](https://img.shields.io/badge/Gmail-%23EA4335?logo=gmail&logoColor=white)](mailto:rodriguezgar.cris@gmail.com)
-[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristinarodriguezgar/)
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/cristirogar) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cristinarodriguezgar/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rodriguezgar.cris@gmail.com)
