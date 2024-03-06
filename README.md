@@ -17,7 +17,7 @@ Right now I'm:
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,typescript,lit,react,mysql,nodejs,mongodb,postman,git,gulp,npm,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,typescript,lit,react,vite,mysql,nodejs,mongodb,postman,git,gulp,npm,figma)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
 
