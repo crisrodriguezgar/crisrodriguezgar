@@ -11,7 +11,7 @@ Right now I'm:
 
 - In active search of my opportunity in the TECH world 🔍
 - Strengthening my knowledge in **Java Script**, **React.js**, **Node.js**, and **MongoDB**.🌱
-- Eager to learn more technologies 📚
+- Eager to learn more technologies like TypeScript, LitElement or Web Components 📚
 
 <div align="center">
 
