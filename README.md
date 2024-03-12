@@ -14,6 +14,13 @@ Right now I'm:
 - I am self-learning more technologies such as **TypeScript**, **LitElement** or **Web Components**
 - Eager to learn more technologies 📚
 
+<div align="center">
+  <a href="./images/CV_CristinaRodriguez-FullStack.pdf">
+    <img alt="Icono descargar currículum" src="./images/cv.png" width="80"/>
+  </a>
+  <p>Descarga CV</p>
+</div>
+
 
 <div align="center">
 
