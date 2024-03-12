@@ -15,6 +15,13 @@ Right now I'm:
 - Eager to learn more technologies 📚
 
 <div align="center">
+  <a href="./images/CV_CristinaRodriguez-Linkedin.pdf">
+    <img alt="Icono descargar currículum" src="./images/cv.png" width="80"/>
+  </a>
+  <p>Descarga CV</p>
+</div>
+
+<div align="center">
 
 ## Technologies
   
@@ -23,13 +30,6 @@ Right now I'm:
 ![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,git,gulp,npm,figma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
-
-<div align="center">
-  <a href="./images/CV_CristinaRodriguez-Linkedin.pdf">
-    <img alt="Icono descargar currículum" src="./images/cv.png" width="80"/>
-  </a>
-  <p>Descarga CV</p>
-</div>
 
 ## Contact 📫
 
