@@ -15,7 +15,7 @@ Right now I'm:
 - Eager to learn more technologies 📚
 
 <div align="center">
-  <a href="./images/CV_CristinaRodriguez-Linkedin.pdf">
+  <a href="./images/cv_CristinaRodriguez_FullStack_Linkedin.pdf">
     <img alt="Icono descargar currículum" src="./images/cv.png" width="80"/>
   </a>
   <p>Descarga CV</p>
