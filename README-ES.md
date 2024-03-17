@@ -7,7 +7,7 @@
 
 ## Bienvenido a mi Git
 
-Soy hiatoriadora del arte reconvertida en desarrolladora web, Adalaber de la Promo Úrsula.
+Soy historiadora del arte reconvertida en desarrolladora web, Adalaber de la Promo Úrsula.
 
 Ahora estoy:
 
