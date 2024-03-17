@@ -1,5 +1,5 @@
 <img src="./images/banner2.png" alt="gif" width="900" />
-<button background-color="#28a745" color="white" padding="10px 20px" border-radius="5px" margin="0 10px"><a text-decoration="none" href="README-ES.md" >Click here for Spanish</a></button>
+<a href="README-ES.md">Click here for Spanish</a>
 <h1 align="center">Hi everyone💜! I'm Cristina</h1>
 <h3 align="center">A junior Full Stack developer</h3>
 
