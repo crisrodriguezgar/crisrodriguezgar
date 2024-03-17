@@ -1,5 +1,6 @@
-<a href="README.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Dale aquí para English</a>
 <img src="./images/banner2.png" alt="gif" width="900" />
+
+<a href="README.md" style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;">Dale aquí para English</a>
 
 <h1 align="center">Hola a todos💜! Soy Cristina</h1>
 <h3 align="center">Desarrolladora junior Full-Stack</h3>
