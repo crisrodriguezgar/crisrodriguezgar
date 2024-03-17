@@ -19,7 +19,7 @@ Right now I'm:
   <a href="./images/cv_CristinaRodriguez_FullStack_Linkedin.pdf">
     <img alt="Icono descargar currículum" src="./images/cv.png" width="80"/>
   </a>
-  <p>Descarga CV</p>
+  <p>Download CV</p>
 </div>
 
 <div align="center">
