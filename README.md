@@ -1,3 +1,4 @@
+<button style="background-color: #28a745; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin: 0 10px;"><a href="README-ES.md" >Click here for Spanish</a></button>
 <img src="./images/banner2.png" alt="gif" width="900" />
 
 <h1 align="center">Hi everyone💜! I'm Cristina</h1>
