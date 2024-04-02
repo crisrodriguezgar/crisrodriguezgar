@@ -25,7 +25,7 @@ Right now I'm:
 
 ## Technologies
   
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,lit,react,vite)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,lit,react,vite,tailwind)
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,git,gulp,npm,figma)
 
