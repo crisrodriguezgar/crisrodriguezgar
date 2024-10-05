@@ -25,9 +25,13 @@ Right now I'm:
 
 ## Technologies
   
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,typescript,php,lit,react,vite,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php)
 
-![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,git,gulp,npm,figma)
+![My Skills](https://skillicons.dev/icons?i=wordpress,lit,react,vite,tailwind,sass)
+
+![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,gulp,npm)
+
+![My Skills](https://skillicons.dev/icons?i=git,figma)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
 
