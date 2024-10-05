@@ -1,7 +1,7 @@
 <img src="./images/banner2.png" alt="gif" width="900" />
 <a href="README-ES.md">Click here for Spanish</a>
 <h1 align="center">Hi everyone💜! I'm Cristina</h1>
-<h3 align="center">A junior Full Stack developer</h3>
+<h3 align="center">A Junior Frontend developer</h3>
 
 ## Welcome to my Git 
 
