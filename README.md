@@ -31,7 +31,7 @@ Right now I'm:
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,gulp,npm)
 
-![My Skills](https://skillicons.dev/icons?i=git,figma)
+![My Skills](https://skillicons.dev/icons?i=git,figma,notion)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisrodriguezgar&layout=compact)](https://github.com/crisrodriguezgar/github-readme-stats)
 
