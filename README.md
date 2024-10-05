@@ -27,7 +27,7 @@ Right now I'm:
   
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,php)
 
-![My Skills](https://skillicons.dev/icons?i=wordpress,lit,react,vite,tailwind,sass)
+![My Skills](https://skillicons.dev/icons?i=wordpress,lit,react,vite,angular,tailwind,sass)
 
 ![My Skills](https://skillicons.dev/icons?i=mysql,nodejs,mongodb,postman,gulp,npm)
 
